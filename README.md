@@ -1,3 +1,15 @@
-# visualization
-## 全球地表气温展示可视化
-## Golbal surface temperature display
+# earth
+
+## Project setup
+###download and open in terminal
+```
+yarn install
+yarn serve
+yarn build
+```
+##if you want to compile
+```
+please go to \src
+...\Index.vue and ...\HomeView.vue
+```
+
