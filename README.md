@@ -1,4 +1,4 @@
-# earth
+# The Diagram of the global temperature
 
 ## Project setup
 ###download and open in terminal
