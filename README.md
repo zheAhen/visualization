@@ -3,7 +3,6 @@
 ## Project setup
 ###download and open in terminal
 ```
-yarn config set ignore-engines true
 yarn install
 yarn serve
 yarn build
